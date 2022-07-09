@@ -9,6 +9,4 @@
 
 <img src="http://mazandi.herokuapp.com/api?handle=dudrhkd7811&theme=warm"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonggwangchoi)](https://github.com/yeonggwangchoi/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonggwangchoi)](https://github.com/yeonggwangchoi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonggwangchoi)](https://github.com/yeonggwangchoi/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonggwangchoi)](https://github.com/yeonggwangchoi/github-readme-stats)
