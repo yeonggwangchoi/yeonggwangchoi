@@ -1,19 +1,19 @@
 ![](https://capsule-render.vercel.app/api?type=slice&color=ffc0cb&height=250&section=header&text=YeongGwangChoi&fontAlign=80&fontSize=40&fontColor=000000&animation=twinkling)
 ## Introduction
 
-born in August 1999, Korea. 
+Hi, My name is yeonggwang choi.
+I was born in November 1999, Korea
 I am an undergraduate student at Cheongju University.
 
 Topics that I'm interested in
   - C++
   - Algorithm
+  
+##Top Langs  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonggwangchoi&layout=compact)](https://github.com/yeonggwangchoi/github-readme-stats)
 
 ## solved.ac profile
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dudrhkd7811)](https://solved.ac/dudrhkd7811) <img src="http://mazandi.herokuapp.com/api?handle=dudrhkd7811&theme=warm"/>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonggwangchoi&layout=compact)](https://github.com/yeonggwangchoi/github-readme-stats)
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonggwangchoi)](https://github.com/yeonggwangchoi/github-readme-stats)
 
 ## Contact
 
