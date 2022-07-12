@@ -1,4 +1,8 @@
+![](https://capsule-render.vercel.app/api?type=slice&color=ffc0cb&height=250&section=header&text=YeongGwangChoi&fontAlign=80&fontSize=40&fontColor=000000&animation=twinkling)
+
+<h2 align="center">
 ## Introduction
+
 born in August 1999, Korea. 
 I am an undergraduate student at Cheongju University.
 
