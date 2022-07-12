@@ -1,7 +1,7 @@
 ![](https://capsule-render.vercel.app/api?type=slice&color=ffc0cb&height=250&section=header&text=YeongGwangChoi&fontAlign=80&fontSize=40&fontColor=000000&animation=twinkling)
 ## Introduction
 
-Hi, My name is yeonggwang choi.     
+Hi, I'm yeonggwang choi.     
 I was born in November 1999, Korea      
 I am an undergraduate student at Cheongju University.       
 
