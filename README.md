@@ -9,7 +9,7 @@ Topics that I'm interested in
   - C++
   - Algorithm
   
-##Top Langs  
+## Top Langs  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonggwangchoi&layout=compact)](https://github.com/yeonggwangchoi/github-readme-stats)
 
 ## solved.ac profile
