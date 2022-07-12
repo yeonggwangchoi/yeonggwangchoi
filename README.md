@@ -2,8 +2,11 @@
 ## Introduction
 
 Hi, I'm yeonggwang choi.     
-I was born in November 1999, Korea      
+I was born in November 1999, Korea.      
 I am an undergraduate student at Cheongju University.       
+
+Major
+-electronic engineering
 
 Topics that I'm interested in
   - C++
