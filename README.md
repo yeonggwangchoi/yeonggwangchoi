@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=slice&color=ffc0cb&height=250&section=header&text=최영광 *YeongGwangChoi*&fontAlign=80&fontSize=40&fontColor=000000&animation=twinkling)
+![](https://capsule-render.vercel.app/api?type=slice&color=ffc0cb&height=250&section=header&text=YeongGwangChoi&fontAlign=80&fontSize=40&fontColor=000000&animation=twinkling)
 ## Introduction
 
 Hi, I'm yeonggwang choi.     
