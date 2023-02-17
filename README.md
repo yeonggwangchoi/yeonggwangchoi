@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=slice&color=ffc0cb&height=250&section=header&text=YeongGwangChoi&fontAlign=80&fontSize=40&fontColor=000000&animation=twinkling)
+![](https://capsule-render.vercel.app/api?type=slice&color=ffc0cb&height=250&section=header&text=최영광 *YeongGwangChoi*&fontAlign=80&fontSize=40&fontColor=000000&animation=twinkling)
 ## Introduction
 
 Hi, I'm yeonggwang choi.     
@@ -12,12 +12,15 @@ Topics that I'm interested in
   - C++
   - Algorithm
   
-## Top Langs  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonggwangchoi&layout=compact)](https://github.com/yeonggwangchoi/github-readme-stats)
+##Languages
+<div>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+</div>
 
 ## solved.ac profile
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dudrhkd7811)](https://solved.ac/dudrhkd7811) <img src="http://mazandi.herokuapp.com/api?handle=dudrhkd7811&theme=warm"/>
-
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dudrhkd7811)]
 ## Contact
 
 My emails are:
