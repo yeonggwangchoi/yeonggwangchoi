@@ -4,6 +4,7 @@
 Hi, I'm yeonggwang choi.     
 I was born in November 1999, Korea.      
 I am an undergraduate student at Cheongju University.       
+I am a happy person who lives with the hope that I can overcome any difficulties.
 
 Major
 - electronic engineering
