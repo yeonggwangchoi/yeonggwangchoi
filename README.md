@@ -7,7 +7,7 @@ I am an undergraduate student at Cheongju University.
 I am a happy person who lives with the hope that I can overcome any difficulties.
 
 Major
-  - electronic engineering
+  - Electronic Engineering
   - Future Vehicle Technology Convergence
 
 Topics that I'm interested in
