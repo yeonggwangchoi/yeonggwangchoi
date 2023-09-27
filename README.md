@@ -11,14 +11,15 @@ My goal is to research deep learning-based computer vision systems and become a 
 
 If you're interested in my detailed profile, please visit my [portfolio](https://yeonggwangchoi.github.io/web-porfolio/).
 
-Major
+## Major
   - Electronic Engineering
   - Future Automotive Technology Integration Major
 
-Topics that I'm interested in
-  - ComputerVision
-  - DeepLearning
-  - ImageProcessing
+## Research Interests
+  - Computer vision and Image processing
+  - Machine vision and Image processing
+  - Deep learning
+  - Robot vision systems
 
 ## Languages 
 <div>
