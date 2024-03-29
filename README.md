@@ -42,8 +42,8 @@ If you're interested in my detailed profile, please visit my [portfolio](https:/
 
 My emails are:
 
-  - dudrhkd9911@gmail.com
-  - dudrhkd7811@naver.com
+  - dudrhkd9911@g.skku.edu
+
 
 feel free to email me.
 
