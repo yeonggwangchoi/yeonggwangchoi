@@ -1,15 +1,16 @@
 ![](https://capsule-render.vercel.app/api?type=slice&color=ffc0cb&height=250&section=header&text=YeongGwangChoi&fontAlign=80&fontSize=40&fontColor=000000&animation=twinkling)
 ## Introduction
 
-Hello, I'm yeonggwang choi, an undergraduate student at Cheongju University. 
+Hello, my name is Youngkwang Choi, a master's student at Sungkyunkwan University. 
 
-I have a keen interest in computer vision technology, which enables computers to replace human vision.
+I am interested in computer vision technology, where computers can replace human vision.
 
-I am fascinated by the potential of integrating computer vision into various fields such as autonomous driving and robotics. 
+I am fascinated by the possibilities that computer vision can be applied to various fields such as autonomous driving and robotics. 
 
-My goal is to research deep learning-based computer vision systems and become a developer who works in various fields.
+In the future, my goal is to research deep learning-based computer vision systems and become a developer working in various fields.
 
-If you're interested in my detailed profile, please visit my [portfolio](https://yeonggwangchoi.github.io/web-porfolio/).
+If you are interested in my detailed profile, please visit my [portfolio].
+(https://yeonggwangchoi.github.io/web-porfolio/).
 
 ## Major
   - Electronic Engineering
