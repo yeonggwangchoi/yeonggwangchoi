@@ -42,7 +42,7 @@ If you are interested in my detailed profile, please visit my [portfolio](https:
 
 My emails are:
 
-  - dudrhkd9911@g.skku.edu
+  - dudrhkd7811@g.skku.edu
 
 
 feel free to email me.
