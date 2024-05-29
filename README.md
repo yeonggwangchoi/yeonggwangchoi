@@ -9,8 +9,7 @@ I am fascinated by the possibilities that computer vision can be applied to vari
 
 In the future, my goal is to research deep learning-based computer vision systems and become a developer working in various fields.
 
-If you are interested in my detailed profile, please visit my [portfolio].
-(https://yeonggwangchoi.github.io/web-porfolio/).
+If you are interested in my detailed profile, please visit my [portfolio](https://yeonggwangchoi.github.io/web-porfolio/).
 
 ## Major
   - Electronic Engineering
