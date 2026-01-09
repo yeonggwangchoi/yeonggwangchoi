@@ -11,15 +11,18 @@ In the future, my goal is to research deep learning-based computer vision system
 
 If you are interested in my detailed profile, please visit my [portfolio](https://yeonggwangchoi.github.io/glory_portfolio/).
 
+
 ## Major
-  - Electronic Engineering
-  - Future Automotive Technology Integration Major
+  - M.S. in Electrical and Computer Engineering
+  - B.S. in Electronic Engineering
+  - B.S. in Future Automotive Technology Integration
 
 ## Research Interests
-  - Computer vision and Image processing
-  - Machine vision and Image processing
-  - Deep learning
-  - Robot vision systems
+  - Autonomous Driving & Valet Parking Systems
+  - Computer Vision-based Automation
+  - Deep Learning for Perception
+  - Infrastructure Sensor-based Vehicle Control
+  - ROS 2 & Embedded Systems
 
 ## Languages 
 <div>
