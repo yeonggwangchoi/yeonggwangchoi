@@ -22,7 +22,6 @@ If you are interested in my detailed profile, please visit my [portfolio](https:
   - Computer Vision-based Automation
   - Deep Learning for Perception
   - Infrastructure Sensor-based Vehicle Control
-  - ROS 2 & Embedded Systems
 
 ## Languages 
 <div>
