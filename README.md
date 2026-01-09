@@ -1,6 +1,6 @@
 ![](https://capsule-render.vercel.app/api?type=slice&color=ffc0cb&height=250&section=header&text=YeongGwangChoi&fontAlign=80&fontSize=40&fontColor=000000&animation=twinkling)
 ## Introduction
-
+<div align="justify">
 Hello, I am Yeonggwang Choi, an engineer dedicated to overcoming the limitations of autonomous driving through AI.
 
 Currently, I am pursuing my Master’s degree at the Automation Lab at Sungkyunkwan University, focusing on autonomous driving, autonomous valet parking, and computer vision-based automation systems.
@@ -12,7 +12,7 @@ My key strength lies in accurately capturing rapidly evolving technological tren
 I am committed to leveraging my research expertise and development capabilities to become an engineer who turns future mobility technologies into reality.
 
 If you are interested in my detailed profile, please visit my [portfolio](https://yeonggwangchoi.github.io/glory_portfolio/).
-
+</div>
 
 ## Major
   - M.S. in Electrical and Computer Engineering
